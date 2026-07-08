@@ -13,25 +13,27 @@
  *     }
  * }
  */
+
 class Solution {
+    private int idx = 0;
+
     public TreeNode bstFromPreorder(int[] preorder) {
-        return build(preorder, 0, preorder.length - 1);
+        return build(preorder, Integer.MAX_VALUE);
     }
 
-    private TreeNode build(int[] preorder, int start, int end) {
+    private TreeNode build(int[] preorder, int upperBound) {
 
-        if (start > end)
+        if (idx == preorder.length)
             return null;
 
-        TreeNode root = new TreeNode(preorder[start]);
-        int idx = start + 1;
+        if (preorder[idx] > upperBound)
+            return null;
 
-        while (idx <= end && preorder[idx] < root.val) {
-            idx++;
-        }
+        TreeNode root = new TreeNode(preorder[idx]);
+        idx++;
 
-        root.left = build(preorder, start + 1, idx - 1);
-        root.right = build(preorder, idx, end);
+        root.left = build(preorder, root.val);
+        root.right = build(preorder, upperBound);
 
         return root;
     }
