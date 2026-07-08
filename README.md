@@ -31,6 +31,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
 ## Stack
 |  |
 | ------- |
@@ -51,4 +52,12 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/sourav-357/leetcode/tree/master/0367-valid-perfect-square) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
