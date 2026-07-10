@@ -34,6 +34,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
 ## Stack
@@ -47,6 +48,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -59,13 +61,31 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
