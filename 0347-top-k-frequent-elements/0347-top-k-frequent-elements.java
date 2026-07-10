@@ -1,31 +1,41 @@
+
+
+class Number implements Comparable<Number> {
+    int element;
+    int freq;
+
+    Number(int element, int freq) {
+        this.element = element;
+        this.freq = freq;
+    }
+
+    @Override
+    public int compareTo(Number that) {
+        // max heap
+        return that.freq - this.freq;
+    }
+}
+
+
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
 
-        // Step 1: Count frequency
-        HashMap<Integer, Integer> map = new HashMap<>();
+        PriorityQueue<Number> pq = new PriorityQueue<>();
+        HashMap<Integer, Integer> freqMap = new HashMap<>();
 
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
         }
 
-        // Step 2: Min Heap based on frequency
-        PriorityQueue<Map.Entry<Integer, Integer>> pq =
-                new PriorityQueue<>((a, b) -> a.getValue() - b.getValue());
-
-        // Step 3: Keep only k most frequent elements
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            pq.offer(entry);
-
-            if (pq.size() > k) {
-                pq.poll();
-            }
+        for (Map.Entry<Integer, Integer> entry : freqMap.entrySet()) {
+            Number number = new Number(entry.getKey(), entry.getValue());
+            pq.offer(number);
         }
 
-        // Step 4: Store answer
         int[] ans = new int[k];
-
-        for (int i = k - 1; i >= 0; i--) {
-            ans[i] = pq.poll().getKey();
+        for (int i = 0; i < k; i++) {
+            Number number = pq.poll();
+            ans[i] = number.element;
         }
 
         return ans;
