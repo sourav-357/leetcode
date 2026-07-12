@@ -1,49 +1,29 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
-
         int[] freq = new int[26];
+
+        // Count frequency of each task
         for (char task : tasks) {
             freq[task - 'A']++;
         }
 
-        // Max Heap
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+        // Find maximum frequency
+        int maxFreq = 0;
         for (int f : freq) {
-            if (f > 0) {
-                maxHeap.offer(f);
+            maxFreq = Math.max(maxFreq, f);
+        }
+
+        // Count how many tasks have the maximum frequency
+        int countMax = 0;
+        for (int f : freq) {
+            if (f == maxFreq) {
+                countMax++;
             }
         }
 
-        int time = 0;
-        while (!maxHeap.isEmpty()) {
+        // Calculate answer using the formula
+        int result = (maxFreq - 1) * (n + 1) + countMax;
 
-            List<Integer> remaining = new ArrayList<>();
-
-            int cycle = n + 1;
-            int workDone = 0;
-
-            while (cycle > 0 && !maxHeap.isEmpty()) {
-                int current = maxHeap.poll();
-
-                if (current > 1) {
-                    remaining.add(current - 1);
-                }
-
-                workDone++;
-                cycle--;
-            }
-
-            for (int f : remaining) {
-                maxHeap.offer(f);
-            }
-
-            if (maxHeap.isEmpty()) {
-                time += workDone;
-            } else {
-                time += n + 1;
-            }
-        }
-
-        return time;
+        return Math.max(result, tasks.length);
     }
 }
