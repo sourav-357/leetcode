@@ -45,6 +45,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0435-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sourav-357/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sourav-357/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/sourav-357/leetcode/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/sourav-357/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -77,6 +78,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sourav-357/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sourav-357/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/sourav-357/leetcode/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
@@ -94,6 +96,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0435-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sourav-357/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sourav-357/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/sourav-357/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
 ## Counting Sort
@@ -124,6 +127,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sourav-357/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/sourav-357/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
