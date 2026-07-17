@@ -73,6 +73,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0135-candy](https://github.com/sourav-357/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/sourav-357/leetcode/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
@@ -109,6 +110,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,6 +138,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 ## Design
 |  |
 | ------- |
@@ -152,4 +155,8 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sourav-357/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
