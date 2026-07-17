@@ -41,6 +41,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0135-candy](https://github.com/sourav-357/leetcode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sourav-357/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/sourav-357/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/sourav-357/leetcode/tree/master/0860-lemonade-change) |
@@ -87,6 +88,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0215-kth-largest-element-in-an-array](https://github.com/sourav-357/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/sourav-357/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/sourav-357/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -159,4 +161,12 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/sourav-357/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/sourav-357/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
