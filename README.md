@@ -91,6 +91,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sourav-357/leetcode/tree/master/0007-reverse-integer) |
 | [0367-valid-perfect-square](https://github.com/sourav-357/leetcode/tree/master/0367-valid-perfect-square) |
 | [0973-k-closest-points-to-origin](https://github.com/sourav-357/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
