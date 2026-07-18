@@ -36,6 +36,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sourav-357/leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/sourav-357/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sourav-357/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sourav-357/leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourav-357/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -196,6 +197,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sourav-357/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sourav-357/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
