@@ -13,6 +13,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -41,6 +42,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0046-permutations](https://github.com/sourav-357/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sourav-357/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sourav-357/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourav-357/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sourav-357/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sourav-357/leetcode/tree/master/0135-candy) |
@@ -183,6 +185,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/sourav-357/leetcode/tree/master/0402-remove-k-digits) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
@@ -205,6 +208,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0040-combination-sum-ii](https://github.com/sourav-357/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sourav-357/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sourav-357/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/sourav-357/leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
@@ -212,4 +216,8 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0078-subsets](https://github.com/sourav-357/leetcode/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
