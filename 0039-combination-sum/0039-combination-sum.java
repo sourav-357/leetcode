@@ -6,17 +6,17 @@ class Solution {
         return res;
     }
 
-    void backtrack(int start, int[] arr, int target, int sum,
-                   List<Integer> curr, List<List<Integer>> res) {
-
+    private void backtrack(int index, int[] arr, int target, int sum, 
+                            List<Integer> curr, List<List<Integer>> res) {
+        
         if (sum == target) {
             res.add(new ArrayList<>(curr));
             return;
         }
 
-        for (int i = start; i < arr.length; i++) {
+        for (int i = index; i < arr.length; i++) {
             if (sum + arr[i] > target) continue;
-            
+
             curr.add(arr[i]);
             backtrack(i, arr, target, sum + arr[i], curr, res);
             curr.remove(curr.size() - 1);
