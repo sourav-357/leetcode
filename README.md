@@ -40,6 +40,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0040-combination-sum-ii](https://github.com/sourav-357/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/sourav-357/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sourav-357/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sourav-357/leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/sourav-357/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sourav-357/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
@@ -105,6 +106,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sourav-357/leetcode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sourav-357/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -208,6 +210,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0039-combination-sum](https://github.com/sourav-357/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sourav-357/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sourav-357/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sourav-357/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sourav-357/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sourav-357/leetcode/tree/master/0090-subsets-ii) |
