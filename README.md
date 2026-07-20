@@ -61,6 +61,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-two-city-scheduling](https://github.com/sourav-357/leetcode/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
+| [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sourav-357/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Stack
 |  |
@@ -216,6 +217,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0090-subsets-ii](https://github.com/sourav-357/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sourav-357/leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
+| [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,4 +228,5 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
+| [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
