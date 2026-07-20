@@ -36,7 +36,6 @@ class Solution {
                 return false;
         }
 
-        // upper left-diagonal check
         for (int i = row - 1, j = col - 1; 
              i >= 0 && j >= 0;
              i--, j--) {
@@ -45,7 +44,6 @@ class Solution {
                 return false; 
         }
 
-        // upper right-diagonal check
         for (int i = row - 1, j = col + 1; 
              i >= 0 && j < board.length;
              i--, j++) {
