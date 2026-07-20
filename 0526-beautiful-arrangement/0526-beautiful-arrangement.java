@@ -1,29 +1,25 @@
 class Solution {
-    public int countArrangement(int n) {
+    int res = 0;
 
-        boolean[] used = new boolean[n + 1];
-        return backtrack(1, n, used);
+    public int countArrangement(int n) {
+        if (n == 0) return 0;
+        backtrack(1, n, new int[n+1]);
+        return res;
     }
 
-    private int backtrack(int pos, int n, boolean[] used) {
-
+    private void backtrack(int pos, int n, int[] usedValueArr) {
         if (pos > n) {
-            return 1;
+            res++;
+            return;
         }
 
-        int count = 0;
-
-        for (int num = 1; num <= n; num++) {
-
-            if (!used[num] &&
-                (num % pos == 0 || pos % num == 0)) {
-                used[num] = true;
-
-                count += backtrack(pos + 1, n, used);
-                used[num] = false;
+        for (int i = 1; i <= n; i++) {
+            if (usedValueArr[i] == 0 && (pos % i == 0 || i % pos == 0)) {
+                usedValueArr[i] = 1;
+                
+                backtrack(pos+1, n, usedValueArr);
+                usedValueArr[i] = 0;
             }
         }
-
-        return count;
     }
 }
