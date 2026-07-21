@@ -1,50 +1,40 @@
 class Solution {
-
     public List<String> wordBreak(String s, List<String> wordDict) {
 
-        Map<Integer, List<String>> memo = new HashMap<>();
-
-        return dfs(s, wordDict, 0, memo);
+        List<String> ans = new ArrayList<>();
+        backtrack(s, wordDict, 0, new ArrayList<>(), ans);
+        return ans;
     }
 
-    private List<String> dfs(String s,
-                             List<String> wordDict,
-                             int idx,
-                             Map<Integer, List<String>> memo) {
+    private void backtrack(String s, List<String> wordDict,int idx,
+                           List<String> path, List<String> ans) {
 
-        // Already solved?
-        if (memo.containsKey(idx))
-            return memo.get(idx);
-
-        List<String> ans = new ArrayList<>();
-
-        // Reached end of string
         if (idx == s.length()) {
-            ans.add("");
-            return ans;
+            ans.add(String.join(" ", path));
+            return;
         }
 
         for (String word : wordDict) {
 
-            if (!s.startsWith(word, idx))
+            if (!matches(s, word, idx))
                 continue;
 
-            List<String> next = dfs(s,
-                                    wordDict,
-                                    idx + word.length(),
-                                    memo);
+            path.add(word);
+            backtrack(s, wordDict, idx + word.length(), path, ans);
+            path.remove(path.size() - 1);
+        }
+    }
 
-            for (String sentence : next) {
+    private boolean matches(String s, String word, int idx) {
 
-                if (sentence.isEmpty())
-                    ans.add(word);
-                else
-                    ans.add(word + " " + sentence);
-            }
+        if (idx + word.length() > s.length())
+            return false;
+
+        for (int i = 0; i < word.length(); i++) {
+            if (s.charAt(idx + i) != word.charAt(i))
+                return false;
         }
 
-        memo.put(idx, ans);
-
-        return ans;
+        return true;
     }
 }
