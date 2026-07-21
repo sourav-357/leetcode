@@ -201,6 +201,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/sourav-357/leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/sourav-357/leetcode/tree/master/0402-remove-k-digits) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
@@ -231,6 +232,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/sourav-357/leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/sourav-357/leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/sourav-357/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
@@ -259,4 +261,8 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
