@@ -36,6 +36,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sourav-357/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sourav-357/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/sourav-357/leetcode/tree/master/0045-jump-game-ii) |
@@ -142,6 +143,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
@@ -215,6 +217,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sourav-357/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sourav-357/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sourav-357/leetcode/tree/master/0046-permutations) |
@@ -238,6 +241,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Bitmask
