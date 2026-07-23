@@ -8,36 +8,30 @@ class Solution {
         }
 
         for (int[] edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-
-            adj.get(u).add(v);
-            adj.get(v).add(u); // because graph is bi-directional
+            adj.get(edge[0]).add(edge[1]);
+            adj.get(edge[1]).add(edge[0]);
         }
 
+        Queue<Integer> queue = new LinkedList<>();
         boolean[] visited = new boolean[n];
 
-        return dfs(source, destination, adj, visited);
-    }
+        queue.offer(source);
+        visited[source] = true;
 
-    private boolean dfs(int node, int destination,
-                        ArrayList<ArrayList<Integer>> adj,
-                        boolean[] visited) {
+        while (!queue.isEmpty()) {
 
-        if (node == destination) {
-            return true;
-        }
+            int node = queue.poll();
 
-        visited[node] = true;
+            if (node == destination) {
+                return true;
+            }
 
-        for (int neighbor : adj.get(node)) {
+            for (int neighbor : adj.get(node)) {
 
-            if (!visited[neighbor]) {
-
-                if (dfs(neighbor, destination, adj, visited)) {
-                    return true;
+                if (!visited[neighbor]) {
+                    visited[neighbor] = true;
+                    queue.offer(neighbor);
                 }
-
             }
         }
 
