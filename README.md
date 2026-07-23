@@ -15,6 +15,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -51,6 +52,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0134-gas-station](https://github.com/sourav-357/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sourav-357/leetcode/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
+| [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sourav-357/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sourav-357/leetcode/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -248,6 +250,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Bitmask
 |  |
@@ -264,5 +267,10 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
