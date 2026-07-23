@@ -18,6 +18,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -269,8 +270,14 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
