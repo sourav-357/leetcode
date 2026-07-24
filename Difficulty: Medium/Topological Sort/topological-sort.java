@@ -9,9 +9,9 @@ class Solution {
         
         int[] indegree = new int[V];
         
-        for (int[] num : edges) {
-            int u = num[0];
-            int v = num[1];
+        for (int[] edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
             
             adj.get(u).add(v);
             indegree[v]++;
@@ -35,20 +35,11 @@ class Solution {
                 indegree[neighbor]--;
                 
                 if (indegree[neighbor] == 0) {
-                    queue.add(neighbor);
+                    queue.offer(neighbor);
                 }
-            }    
+            }
         }
         
         return topo;
     }
 }
-
-
-
-
-
-
-
-
-
